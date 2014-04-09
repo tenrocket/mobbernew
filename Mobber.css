@@ -1,0 +1,15 @@
+.body {
+
+}
+
+.nav-bar {
+	height: 60px;
+	width: 100%;
+	background-color: black;
+}
+
+.main-logo {
+	height: 60px;
+	width: 56px;
+	background-image: url("Documents/IronYard/Mobber/Mobberlogo.png");
+}
